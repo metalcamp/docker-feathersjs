@@ -1,0 +1,4 @@
+.idea
+.pgsql.env
+.env
+db
